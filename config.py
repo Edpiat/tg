@@ -1,0 +1,2 @@
+token='5359875348:AAHDyv_LIWAtS-6cLe2QvzlNrczW2OJSQOc'
+owner=5598091247
